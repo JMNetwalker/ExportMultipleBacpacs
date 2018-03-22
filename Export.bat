@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\sqlpackage.exe" /a:Export /SourceServerName:%1 /SourceDatabaseName:%2 /SourceUser:%3 /SourcePassword:%4 /TargetFile:%5 >>c:\SqlPackage\Exporta.Log
